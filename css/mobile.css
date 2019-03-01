@@ -1,0 +1,29 @@
+.icon{
+    width: 15%;
+    margin-bottom: 1.6rem;
+}
+.large-heading{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.navbar{
+    display: block;
+    text-align: center;
+}
+.navbar .secondary-header{
+    margin-bottom: 1rem;
+}
+.navbar__list{
+    display: block;
+}
+.navbar__list li{
+    padding-bottom: 1rem;
+}
+
+.showcase__content{
+    justify-content: flex-start;
+    height: 50%;;
+    margin-top: 3.5rem;
+    text-align: center;
+}
