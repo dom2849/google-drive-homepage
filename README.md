@@ -1,3 +1,3 @@
-A clone of the [Google Drive homepage](https://www.google.com/drive/). 
+A clone of the Google Drive homepage.
 
 View the completed project [here](https://dom2849.github.io/google-drive-homepage/)
